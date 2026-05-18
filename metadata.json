@@ -1,0 +1,6 @@
+{
+  "name": "NextStep AI",
+  "description": "A meeting-to-action agent that turns messy meeting notes and whiteboards into clear tasks, risks, and next steps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
